@@ -1,0 +1,15 @@
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\bin\Debug\net6.0\ejemplo_prueba.exe
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\bin\Debug\net6.0\ejemplo_prueba.deps.json
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\bin\Debug\net6.0\ejemplo_prueba.runtimeconfig.json
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\bin\Debug\net6.0\ejemplo_prueba.dll
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\bin\Debug\net6.0\ejemplo_prueba.pdb
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.csproj.AssemblyReference.cache
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.AssemblyInfo.cs
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.dll
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\refint\ejemplo_prueba.dll
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.pdb
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ejemplo_prueba.genruntimeconfig.cache
+C:\Users\natal\source\repos\ejemplo_prueba\ejemplo_prueba\obj\Debug\net6.0\ref\ejemplo_prueba.dll
